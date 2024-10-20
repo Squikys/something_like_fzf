@@ -20,7 +20,7 @@ go run main.go [directory] [display_limit]
 ## Dependencies
 
 This program uses the following third-party libraries:
--mattn/go-tty: Used for capturing keyboard inputs.
+- mattn/go-tty: Used for capturing keyboard inputs.
 
 ```bash
 go get github.com/mattn/go-tty
